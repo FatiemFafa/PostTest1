@@ -25,3 +25,5 @@ if Cnama == "fatiematul" and Cnim == 2399016010 and Cpass == "password":
         print("volume limas segitiga : ",volume)
     else:
         print("pilihan tidak tersedia")
+else:
+    print("Gagal Login")
